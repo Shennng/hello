@@ -1,3 +1,5 @@
 This note was created when I worked in Cofoe Company.
 
 Branch-test note.
+
+Branch-test note 2.
